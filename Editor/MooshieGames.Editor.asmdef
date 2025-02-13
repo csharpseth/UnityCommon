@@ -1,0 +1,16 @@
+{
+    "name": "MooshieGames.Editor",
+    "rootNamespace": "MooshieGames.Editor",
+    "references": [
+        "GUID:0e4e90494ab63e34ea5b3abc296a1908"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

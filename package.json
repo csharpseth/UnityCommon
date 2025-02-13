@@ -1,0 +1,11 @@
+{
+  "name": "com.mooshiegames.common",
+  "version": "1.0.0",
+  "displayName": "Mooshie Games Common",
+  "description": "A collection of reusable code to limit boilerplate code and encourage cleaner code.",
+  "unity": "2022.1",
+  "author": {
+    "name": "Seth H.",
+    "url": "https://www.youtube.com/@codewithseth"
+  }
+}
