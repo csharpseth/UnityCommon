@@ -4,6 +4,7 @@ using UnityEngine;
 
 namespace MooshieGames.Editor
 {
+	#if UNITY_EDITOR
 	[CustomPropertyDrawer(typeof(TagSelectorAttribute))]
 	public class TagSelectorDrawer : PropertyDrawer
 	{
@@ -21,4 +22,5 @@ namespace MooshieGames.Editor
 			}
 		}
 	}
+	#endif
 }
